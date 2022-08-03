@@ -1,1 +1,2 @@
 feature-1 branch-master
+feature-2 branch-master
